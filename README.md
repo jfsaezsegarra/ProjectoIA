@@ -78,8 +78,8 @@ Cada alumno puede indicar aquí si usa la licencia MIT u otra diferente.
 
 ---
 
-##  URL de trabajo: 
-Cada alumno añadirá aquí la URL o el entorno de trabajo donde ha desplegado su proyecto.
+##  URL de trabajo
+Cada alumno añadirá aquí el entorno de trabajo donde ha desplegado su proyecto.
 
 Repositorio en GitHub: [https://github.com/jfsaezsegarra/ProjectoIA.git](https://github.com/jfsaezsegarra/ProjectoIA.git)
 
