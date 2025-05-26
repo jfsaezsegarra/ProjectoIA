@@ -30,20 +30,13 @@ Cada alumno incluirá aquí un ejemplo de código relevante de su proyecto, por 
 ---
 
 ## ✅ Preguntas frecuentes (FAQ)
-Cada alumno completará aquí las respuestas a las siguientes preguntas:
+Cada alumno completará dos respuestas frecuentes que considere.
 
 **¿Cómo cambio el bot de Telegram?**  
 Cada alumno explicará cómo lo ha hecho.
 
 **¿Puedo usar otro modelo en lugar de Gemini?**  
 Cada alumno explicará cómo adaptaría el modelo en su proyecto.
-
----
-
-## ✅ Recursos útiles
-- [Flask](https://flask.palletsprojects.com/)
-- [Supabase](https://supabase.com/docs)
-- [Gemini API](https://developers.google.com/)
 
 ---
 
@@ -58,7 +51,7 @@ Cada alumno completará aquí con su nombre, enlace a GitHub o email.
 ---
 
 ## ✅ Licencia
-MIT License. Cada alumno puede indicar aquí si usa esta licencia o una diferente.
+Cada alumno puede indicar aquí si usa esta licencia o una diferente.
 
 
 
