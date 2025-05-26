@@ -14,24 +14,15 @@ El flujo consiste en:
 Repositorio en GitHub: [https://github.com/jfsaezsegarra/ProjectoIA.git](https://github.com/jfsaezsegarra/ProjectoIA.git)
 
 ## ✅ Requisitos previos
-- Python 3.10 o superior
-- Cuenta en Supabase y Gemini
-- Token de Telegram Bot
+<!-- Cada alumno debe indicar aquí qué requisitos necesita su proyecto (versión de Python, bibliotecas, cuentas, etc.) -->
 
 ## ✅ Instrucciones de instalación y uso
-
+<!-- Cada alumno completará aquí los pasos para instalar su proyecto, por ejemplo: -->
 ### Uso
-Envía un mensaje al bot de Telegram para probarlo.
+
 
 ## ✅ Estructura del proyecto
-
-/ProjectoIA
-├── app.py
-├── requirements.txt
-├── README.md
-└── ...
-
-
+<!-- Cada alumno completará aquí los pasos para instalar su proyecto, por ejemplo: -->
 
 ## ✅ Ejemplos y código
 Aquí un ejemplo de cómo se define el endpoint en Flask:
@@ -43,12 +34,10 @@ Aquí un ejemplo de cómo se define el endpoint en Flask:
 
 
 ## ✅ Recursos útiles
-- [Flask](https://flask.palletsprojects.com/)
-- [Supabase](https://supabase.com/docs)
-- [Gemini API](https://developers.google.com/)
+<!-- Cada alumno añadirá la URL de su entorno de trabajo o despliegue -->
 
 ## ✅ URL de trabajo: Pythonanywhere.com y Supabase
-Este proyecto está desplegado en Pythonanywhere y usa Supabase como base de datos en la nube.
+<!-- Cada alumno añadirá la URL de su entorno de trabajo o despliegue -->
 
 ## ✅ Contacto o autoría
 Creado por [Juan Francisco Sáez Segarra](https://github.com/jfsaezsegarra).  
