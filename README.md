@@ -63,12 +63,12 @@ Cada alumno completará aquí las respuestas a estas dos preguntas (o podrá añ
 ---
 
 
-##  Conclusiones o aprendizajes personales
+##  Conclusiones
 Cada alumno compartirá aquí lo que ha aprendido y cómo ha mejorado sus habilidades gracias al proyecto.
 
 ---
 
-##  Contacto o autoría
+##  Contacto
 Cada alumno completará aquí con su nombre, enlace a GitHub o email.
 
 ---
@@ -78,7 +78,7 @@ Cada alumno puede indicar aquí si usa la licencia MIT u otra diferente.
 
 ---
 
-##  URL de trabajo: Pythonanywhere.com y Supabase
+##  URL de trabajo: 
 Cada alumno añadirá aquí la URL o el entorno de trabajo donde ha desplegado su proyecto.
 
 Repositorio en GitHub: [https://github.com/jfsaezsegarra/ProjectoIA.git](https://github.com/jfsaezsegarra/ProjectoIA.git)
