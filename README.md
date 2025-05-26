@@ -3,46 +3,62 @@
 # 🚀 Asistente conversacional con Flask, Supabase y Gemini 🤖
 
 ## ✅ Descripción general
-Este proyecto es un asistente conversacional que conecta Telegram, Flask, Supabase y el modelo Gemini.  
-El flujo consiste en:
-1. El usuario envía una pregunta desde Telegram.
-2. Flask recibe el mensaje y genera un vector de la pregunta.
-3. Supabase devuelve los textos más relevantes.
-4. Se compone un *prompt* con el contexto y se envía a Gemini.
-5. Gemini genera una respuesta que se envía de vuelta al usuario por Telegram.
+Cada alumno completará aquí una descripción general de su proyecto, explicando cómo conecta Telegram, Flask, Supabase y el modelo Gemini, y cómo funciona su asistente conversacional.
 
 Repositorio en GitHub: [https://github.com/jfsaezsegarra/ProjectoIA.git](https://github.com/jfsaezsegarra/ProjectoIA.git)
 
+---
+
 ## ✅ Requisitos previos
-<!-- Cada alumno debe indicar aquí qué requisitos necesita su proyecto (versión de Python, bibliotecas, cuentas, etc.) -->
+Cada alumno completará aquí qué requisitos necesita su proyecto (versión de Python, bibliotecas, cuentas, etc.).
+
+---
 
 ## ✅ Instrucciones de instalación y uso
-<!-- Cada alumno completará aquí los pasos para instalar su proyecto, por ejemplo: -->
-### Uso
+Cada alumno completará aquí los pasos para instalar y usar su proyecto.
 
+---
 
 ## ✅ Estructura del proyecto
-<!-- Cada alumno completará aquí los pasos para instalar su proyecto, por ejemplo: -->
+Cada alumno completará aquí la estructura de su proyecto, indicando las carpetas y los archivos principales.
+
+---
 
 ## ✅ Ejemplos y código
-Aquí un ejemplo de cómo se define el endpoint en Flask:
+Cada alumno incluirá aquí un ejemplo de código relevante de su proyecto, por ejemplo, el endpoint de Flask u otra funcionalidad clave.
 
+---
 
 ## ✅ Preguntas frecuentes (FAQ)
-**¿Cómo cambio el bot de Telegram?**  
-**¿Puedo usar otro modelo en lugar de Gemini?**  
+Cada alumno completará aquí las respuestas a las siguientes preguntas:
 
+**¿Cómo cambio el bot de Telegram?**  
+Cada alumno explicará cómo lo ha hecho.
+
+**¿Puedo usar otro modelo en lugar de Gemini?**  
+Cada alumno explicará cómo adaptaría el modelo en su proyecto.
+
+---
 
 ## ✅ Recursos útiles
-<!-- Cada alumno añadirá la URL de su entorno de trabajo o despliegue -->
+- [Flask](https://flask.palletsprojects.com/)
+- [Supabase](https://supabase.com/docs)
+- [Gemini API](https://developers.google.com/)
+
+---
 
 ## ✅ URL de trabajo: Pythonanywhere.com y Supabase
-<!-- Cada alumno añadirá la URL de su entorno de trabajo o despliegue -->
+Cada alumno añadirá aquí la URL o el entorno de trabajo donde ha desplegado su proyecto.
+
+---
 
 ## ✅ Contacto o autoría
-Creado por [Juan Francisco Sáez Segarra](https://github.com/jfsaezsegarra).  
-Email: jf.saezsegarra@edu.gva.es
+Cada alumno completará aquí con su nombre, enlace a GitHub o email.
+
+---
 
 ## ✅ Licencia
+MIT License. Cada alumno puede indicar aquí si usa esta licencia o una diferente.
+
 
 
