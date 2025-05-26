@@ -21,16 +21,6 @@ Repositorio en GitHub: [https://github.com/jfsaezsegarra/ProjectoIA.git](https:/
 ## ✅ Instrucciones de instalación y uso
 
 ### Instalación
-Clona el repositorio y accede al directorio:
-\`\`\`bash
-git clone https://github.com/jfsaezsegarra/ProjectoIA.git
-cd ProjectoIA
-\`\`\`
-
-Instala las dependencias:
-\`\`\`bash
-pip install -r requirements.txt
-\`\`\`
 
 ### Variables de entorno y configuración
 Configura estas variables antes de iniciar:
@@ -50,13 +40,13 @@ python app.py
 Envía un mensaje al bot de Telegram para probarlo.
 
 ## ✅ Estructura del proyecto
-\`\`\`
+
 /ProjectoIA
 ├── app.py
 ├── requirements.txt
 ├── README.md
 └── ...
-\`\`\`
+
 
 ## ✅ Ejemplos y código
 Aquí un ejemplo de cómo se define el endpoint en Flask:
