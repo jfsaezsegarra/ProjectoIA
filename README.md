@@ -20,23 +20,7 @@ Repositorio en GitHub: [https://github.com/jfsaezsegarra/ProjectoIA.git](https:/
 
 ## ✅ Instrucciones de instalación y uso
 
-### Instalación
-
-### Variables de entorno y configuración
-Configura estas variables antes de iniciar:
-\`\`\`bash
-export TELEGRAM_BOT_TOKEN="tu_token"
-export SUPABASE_URL="https://tu-proyecto.supabase.co"
-export SUPABASE_KEY="tu_api_key"
-export GEMINI_API_KEY="tu_api_key"
-\`\`\`
-
 ### Uso
-Ejecuta el servidor Flask:
-\`\`\`bash
-python app.py
-\`\`\`
-
 Envía un mensaje al bot de Telegram para probarlo.
 
 ## ✅ Estructura del proyecto
@@ -48,26 +32,15 @@ Envía un mensaje al bot de Telegram para probarlo.
 └── ...
 
 
+
 ## ✅ Ejemplos y código
 Aquí un ejemplo de cómo se define el endpoint en Flask:
-\`\`\`python
-from flask import Flask, request
-app = Flask(__name__)
 
-@app.route('/webhook', methods=['POST'])
-def webhook():
-    data = request.get_json()
-    pregunta = data['message']['text']
-    # Generar embedding, consultar Supabase y componer prompt...
-    return {"respuesta": "¡Hola! Soy el asistente conversacional."}
-\`\`\`
 
 ## ✅ Preguntas frecuentes (FAQ)
 **¿Cómo cambio el bot de Telegram?**  
-Edita la variable \`TELEGRAM_BOT_TOKEN\` en tu entorno.
-
 **¿Puedo usar otro modelo en lugar de Gemini?**  
-Sí, simplemente adapta el endpoint en el archivo \`app.py\`.
+
 
 ## ✅ Recursos útiles
 - [Flask](https://flask.palletsprojects.com/)
@@ -82,6 +55,5 @@ Creado por [Juan Francisco Sáez Segarra](https://github.com/jfsaezsegarra).
 Email: jf.saezsegarra@edu.gva.es
 
 ## ✅ Licencia
-MIT License. Puedes usarlo, modificarlo y compartirlo bajo los términos de esta licencia.
 
 
