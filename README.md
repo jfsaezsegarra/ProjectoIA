@@ -4,8 +4,6 @@
 ## ✅ Descripción general
 Cada alumno completará aquí una descripción general de su proyecto, explicando cómo conecta Telegram, Flask, Supabase y el modelo Gemini, y cómo funciona su asistente conversacional.
 
-Repositorio en GitHub: [https://github.com/jfsaezsegarra/ProjectoIA.git](https://github.com/jfsaezsegarra/ProjectoIA.git)
-
 ---
 
 ## ✅ Objetivos del proyecto
@@ -64,10 +62,6 @@ Cada alumno completará aquí las respuestas a estas dos preguntas (o podrá añ
 
 ---
 
-## ✅ URL de trabajo: Pythonanywhere.com y Supabase
-Cada alumno añadirá aquí la URL o el entorno de trabajo donde ha desplegado su proyecto.
-
----
 
 ## ✅ Conclusiones o aprendizajes personales
 Cada alumno compartirá aquí lo que ha aprendido y cómo ha mejorado sus habilidades gracias al proyecto.
@@ -81,6 +75,13 @@ Cada alumno completará aquí con su nombre, enlace a GitHub o email.
 
 ## ✅ Licencia
 Cada alumno puede indicar aquí si usa la licencia MIT u otra diferente.
+
+---
+
+## ✅ URL de trabajo: Pythonanywhere.com y Supabase
+Cada alumno añadirá aquí la URL o el entorno de trabajo donde ha desplegado su proyecto.
+
+Repositorio en GitHub: [https://github.com/jfsaezsegarra/ProjectoIA.git](https://github.com/jfsaezsegarra/ProjectoIA.git)
 
 
 
