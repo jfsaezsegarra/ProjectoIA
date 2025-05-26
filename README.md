@@ -37,17 +37,17 @@ Cada alumno describirá aquí los problemas o dificultades que surgieron durante
 
 ---
 
-##  Resultados obtenidos o funcionalidades destacadas
+##  Resultados obtenidos 
 Cada alumno explicará brevemente qué resultados obtuvo o qué funcionalidades especiales desarrolló en su asistente.
 
 ---
 
-##  Ideas de mejora o futuras ampliaciones
+##  Ideas de mejora 
 Cada alumno compartirá aquí sus ideas para mejorar o ampliar el proyecto en el futuro.
 
 ---
 
-##  Impacto o aplicación en la vida real
+##  Aplicación en la vida real
 Cada alumno podrá reflexionar sobre cómo su asistente conversacional podría aplicarse en la vida real o qué necesidades podría cubrir.
 
 ---
