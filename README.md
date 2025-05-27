@@ -1,4 +1,4 @@
-# ProyectoIA  
+# Proyecto-PIA
 ## Asistente conversacional con Flask, Supabase y Gemini
 
 ### Descripción general
