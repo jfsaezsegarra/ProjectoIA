@@ -12,20 +12,13 @@ Cada alumno indicará aquí los objetivos específicos que pretende lograr con s
 ---
 
 ### Requisitos previos
-Cada alumno completará aquí qué requisitos necesita su proyecto (por ejemplo):
-- Versión de Python.
-- Bibliotecas necesarias.
-- Cuentas o APIs.
+Cada alumno completará aquí qué requisitos necesita su proyecto:
+
 
 ---
 
 ### Instrucciones de instalación y uso
 Cada alumno completará aquí los pasos para instalar y usar su proyecto. Ejemplo:
-
-1. Clonar el repositorio.
-2. Instalar dependencias.
-3. Ejecutar el servidor Flask.
-4. Configurar Telegram Bot API.
 
 ---
 
